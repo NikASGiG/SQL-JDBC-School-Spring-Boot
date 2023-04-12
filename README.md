@@ -1,4 +1,4 @@
-# SQL JDBC School
+# SQL JDBC School Spring Boot
 SQL JDBC School is a Java console application that interacts with a PostgreSQL database using JDBC and is built with Spring Boot. It allows the user to insert, update, and delete data from the database using SQL queries.
 
 SQL JDBC School is implemented with Java 8, Maven, JUnit, JDBC, PostgreSQL and Spring Boot
